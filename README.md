@@ -1,2 +1,2 @@
-# flores-animadas.github.io
+# flores-animadas
 flores-animadas
